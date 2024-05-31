@@ -7,5 +7,5 @@ thanks goes to [@mklinkj](https://github.com/orgs/Homebrew/discussions/4445)
 to install
 
 ```bash
-brew install souhaiebtar/tap/unzip
+brew install --build-from-source souhaiebtar/tap/unzip
 ```
